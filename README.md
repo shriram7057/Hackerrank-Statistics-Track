@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/HR%20Statistics.gif?raw=true" width="280" />
+</div>
 
 <h1>HackerRank – 10 Days of Statistics</h1>
 

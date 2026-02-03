@@ -5,112 +5,192 @@
 <h1>HackerRank – 10 Days of Statistics</h1>
 
 <h2>Overview</h2>
-<p>
-This repository contains my solutions to the <strong>HackerRank “10 Days of Statistics”</strong> challenge.
-The track is designed to build a strong foundation in statistics through hands-on problem solving,
-covering both theoretical concepts and practical computations.
-</p>
-
-<p>
-The solutions focus on clarity, correctness, and efficient implementation, making this repository
-useful for learners, interview preparation, and quick revision of statistical concepts.
-</p>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>
+      This repository contains solutions to the <strong>HackerRank “10 Days of Statistics”</strong> challenge.
+      It focuses on building a strong foundation in statistics through practical problem-solving,
+      covering both theoretical concepts and real-world computations.
+    </td>
+  </tr>
+</table>
 
 <h2>Key Features</h2>
-<ul>
-  <li>Complete solutions for the 10 Days of Statistics challenge</li>
-  <li>Step-by-step logical implementation of statistical formulas</li>
-  <li>Clean and readable code structure</li>
-  <li>Beginner-friendly and interview-oriented</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>#</th>
+    <th>Feature</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Complete solutions for all 10 days</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Step-by-step statistical formula implementation</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Clean, readable, and structured code</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Beginner-friendly and interview-oriented</td>
+  </tr>
+</table>
 
 <h2>Tech Stack</h2>
-<ul>
-  <li><strong>Platform:</strong> HackerRank</li>
-  <li><strong>Core Domain:</strong> Statistics</li>
-  <li><strong>Focus Areas:</strong> Probability, Mean, Median, Mode, Variance, Standard Deviation</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Category</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>Platform</td>
+    <td>HackerRank</td>
+  </tr>
+  <tr>
+    <td>Core Domain</td>
+    <td>Statistics</td>
+  </tr>
+  <tr>
+    <td>Focus Areas</td>
+    <td>Probability, Mean, Median, Mode, Variance, Standard Deviation</td>
+  </tr>
+</table>
 
 <h2>Project Structure</h2>
-<pre>
-Hacker-Rank-10-Days-of-Statistics/
-├── Day 0 - Mean, Median, and Mode
-├── Day 1 - Quartiles
-├── Day 1 - Interquartile Range
-├── Day 2 - Basic Probability
-├── Day 2 - More Probability
-├── Day 3 - Conditional Probability
-├── Day 4 - Binomial Distribution
-├── Day 5 - Poisson Distribution
-├── Day 6 - Normal Distribution
-├── Day 7 - Central Limit Theorem
-├── Day 8 - Least Square Regression Line
-└── Day 9 - Pearson Correlation Coefficient
-</pre>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Day</th>
+    <th>Topic</th>
+  </tr>
+  <tr><td>Day 0</td><td>Mean, Median, and Mode</td></tr>
+  <tr><td>Day 1</td><td>Quartiles</td></tr>
+  <tr><td>Day 1</td><td>Interquartile Range</td></tr>
+  <tr><td>Day 2</td><td>Basic Probability</td></tr>
+  <tr><td>Day 2</td><td>More Probability</td></tr>
+  <tr><td>Day 3</td><td>Conditional Probability</td></tr>
+  <tr><td>Day 4</td><td>Binomial Distribution</td></tr>
+  <tr><td>Day 5</td><td>Poisson Distribution</td></tr>
+  <tr><td>Day 6</td><td>Normal Distribution</td></tr>
+  <tr><td>Day 7</td><td>Central Limit Theorem</td></tr>
+  <tr><td>Day 8</td><td>Least Square Regression Line</td></tr>
+  <tr><td>Day 9</td><td>Pearson Correlation Coefficient</td></tr>
+</table>
 
 <h2>Topics Covered</h2>
-<ul>
-  <li>Descriptive Statistics</li>
-  <li>Probability Theory</li>
-  <li>Binomial &amp; Poisson Distributions</li>
-  <li>Normal Distribution</li>
-  <li>Central Limit Theorem</li>
-  <li>Regression Analysis</li>
-  <li>Correlation Coefficients</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>#</th>
+    <th>Topic</th>
+  </tr>
+  <tr><td>1</td><td>Descriptive Statistics</td></tr>
+  <tr><td>2</td><td>Probability Theory</td></tr>
+  <tr><td>3</td><td>Binomial & Poisson Distributions</td></tr>
+  <tr><td>4</td><td>Normal Distribution</td></tr>
+  <tr><td>5</td><td>Central Limit Theorem</td></tr>
+  <tr><td>6</td><td>Regression Analysis</td></tr>
+  <tr><td>7</td><td>Correlation Coefficients</td></tr>
+</table>
 
 <h2>How to Use</h2>
-<ol>
-  <li>Clone the repository:
-    <pre>git clone https://github.com/your-username/hackerrank-10-days-of-statistics.git</pre>
-  </li>
-  <li>Navigate to the required day or problem file.</li>
-  <li>Review the solution and logic.</li>
-  <li>Practice the problem directly on HackerRank.</li>
-</ol>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Step</th>
+    <th>Action</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Clone the repository using <code>git clone</code></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Navigate to the required day or problem</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Review the solution and logic</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Practice the problem on HackerRank</td>
+  </tr>
+</table>
 
 <h2>Who This Repository Is For</h2>
-<ul>
-  <li>Students learning statistics</li>
-  <li>Data science and analytics aspirants</li>
-  <li>Software engineers preparing for interviews</li>
-  <li>Anyone revising core statistical concepts</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>#</th>
+    <th>Audience</th>
+  </tr>
+  <tr><td>1</td><td>Students learning statistics</td></tr>
+  <tr><td>2</td><td>Data science and analytics aspirants</td></tr>
+  <tr><td>3</td><td>Software engineers preparing for interviews</td></tr>
+  <tr><td>4</td><td>Anyone revising core statistical concepts</td></tr>
+</table>
 
 <h2>Best Practices Followed</h2>
-<ul>
-  <li>Accurate implementation of statistical formulas</li>
-  <li>Readable and well-structured solutions</li>
-  <li>Consistency with HackerRank problem requirements</li>
-</ul>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Practice</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Accuracy</td>
+    <td>Correct implementation of statistical formulas</td>
+  </tr>
+  <tr>
+    <td>Readability</td>
+    <td>Clean and structured code</td>
+  </tr>
+  <tr>
+    <td>Consistency</td>
+    <td>Aligned with HackerRank problem requirements</td>
+  </tr>
+</table>
 
 <h2>Contributing</h2>
-<p>
-Contributions are welcome. You may improve explanations, optimize solutions,
-or add alternative approaches. Please fork the repository and submit a pull request.
-</p>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>Guideline</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>Improvements</td>
+    <td>Enhance explanations or optimize solutions</td>
+  </tr>
+  <tr>
+    <td>Approaches</td>
+    <td>Add alternative methods if available</td>
+  </tr>
+  <tr>
+    <td>Submission</td>
+    <td>Fork the repo and submit a pull request</td>
+  </tr>
+</table>
 
 <h2>🤝 Let's Connect!</h2>
 <div align="center">
   <a href="https://github.com/shriram7057">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/shriram-lahane/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://leetcode.com/u/shriram_lahane/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="https://instagram.com/heyy_shree_01/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.geeksforgeeks.org/user/lahaneshr7f7/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GeeksforGeeks">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
   <a href="mailto:lahaneshriram2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-</body>
-</html>
